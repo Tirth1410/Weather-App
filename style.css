@@ -19,7 +19,7 @@
     color: var(--colorLight2);
     background-image: linear-gradient(160deg, var(--colorDark1) 0%, var(--colorDark2) 100%);
     overflow-x: hidden;
-    overflow-y: hidden;
+    overflow-y: scroll;
 }
 
 h1{
